@@ -26,6 +26,8 @@
     "setting.dvs_gpuframetime_max"      "9800"
     "setting.defaultres"        "1920"
     "setting.defaultresheight"      "1080"
+    //change these to your resolution ^
+
     "setting.fullscreen"        "1"
     "setting.nowindowborder"        "0"
     "setting.volumetric_lighting"       "0"
