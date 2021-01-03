@@ -1,4 +1,4 @@
-# APEX CONFIGS & TWEAKS BY DEAFPS & Edited by AverytheFurry
+# APEX CONFIGS & TWEAKS
 
 # Autoexec
 1. Go to the games directory. Steam: (C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg) - Origin: (C:\Program Files (x86)\Origin Games\Apex\cfg)
