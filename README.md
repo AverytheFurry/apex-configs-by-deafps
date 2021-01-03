@@ -2,8 +2,9 @@
 
 # Autoexec
 1. Go to the games directory. Steam: (C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg) - Origin: (C:\Program Files (x86)\Origin Games\Apex\cfg)
-2. Create there a new file called "autoexec.cfg" (without the Quotation marks).
+2. Create a new file called "autoexec.cfg" (without the Quotation marks).
 3. Paste everything from [autoexec](https://raw.githubusercontent.com/AverytheFurry/apex-configs-by-deafps/master/autoexec.cfg) in it.
+4. Save and make the file read-only (Right click the file, select properties, check the read only box).
 
 Steam:
 1. Right click the game in steam, hit properties > General > Launch options.
